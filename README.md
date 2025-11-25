@@ -30,8 +30,16 @@ ___
   
 - **American Invitational Mathematics Examination (AIME):** This benchmark tests math skills using hard problems from AIME, a famous and competitive math contest for top high-school students. The questions require careful thinking, not just simple formulas. It checks whether a model can solve challenging math puzzles.
 
-- **LiveCode Bench:** This benchmark tests math skills using hard problems from AIME, a famous and competitive math contest for top high-school students. The questions require careful thinking, not just simple formulas. It checks whether a model can solve challenging math puzzles.
+- **LiveCode Bench:** This benchmark tests math skills using hard problems from AIME, a famous and competitive math contest for top high-school students. The questions require careful thinking, not just simple formulas. It checks whether a model can solve challenging math puzzles. 
 
 - **Multistep Soft Reasoning (MuSR):** This benchmark tests reasoning. It includes problems that need logic, like reading a 1,000-word mystery story and figuring out who had the motive, means, and opportunity. It checks if a model can connect clues and think step-by-step.
 
 - **Humanity’s Last Exam (HLE):** This benchmark tests super-advanced, multi-subject intelligence. It includes 2,500 very difficult questions across many topics and formats. It is designed to be one of the hardest exams for AI, measuring broad and deep understanding.
+
+___
+
+# Leaderboards
+
+- artificialanalysis.ai
+
+- scale.com/leaderboard
